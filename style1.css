@@ -1,0 +1,69 @@
+nav{
+    color: white;
+    font-size: 2rem;
+}
+
+.rose{
+    margin-left: 120px;
+}
+
+.card{
+    width: 320px;
+    margin-left: 100px;
+    margin-top: 20px;
+    border: 5px solid black;
+
+}
+
+.card1{
+    width: 320px;
+    margin-left: 570px;
+    margin-top: -405px;
+    background-color: white;
+    border: 5px solid black;
+
+}
+
+
+
+.card2{
+    width: 320px;
+    margin-left: 1100px;
+    margin-top: -405px;
+    background-color: white;
+    border: 5px solid black;
+
+}
+
+.card:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(.5); /* Safari 3-8 */
+    transform: scale(1.2); 
+  }
+
+.card1:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(.5); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+
+.card2:hover {
+    -ms-transform: scale(1.5); /* IE 9 */
+    -webkit-transform: scale(.5); /* Safari 3-8 */
+    transform: scale(1.2); 
+}
+
+#carouselWithInterval{
+width: 550px;
+margin-left: 80px;
+margin-top: 80px;
+border: 10px solid black;
+border-radius: 20px;
+}
+
+.price{
+    margin-left: 890px;
+    margin-top: -600px;
+    font-size: 50px;
+    text-decoration:underline;
+}
